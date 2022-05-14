@@ -13,8 +13,8 @@ In 2018, only two stocks continued to do well. They were ENPH with a return perc
 With the original code it took 1.07 seconds to run 2017, and 1.08 seconds for 2018 to run.
 'insert original photos
 However, with the refactored code, it took .16 seconds for 2017 to run and 0.15 seconds for 2018 to run.
-![2017](VBA_Challenge_2017.png) 
-![2018](VBA_Challenge_2018.png)
+![2017](Resources/VBA_Challenge_2017.png) 
+![2018](Resources/VBA_Challenge_2018.png)
 
 ---
 # Summary
