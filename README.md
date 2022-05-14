@@ -1,9 +1,8 @@
 # An Analysis of Green Stocks
----
-Performing an analysis on green energy stock data to determine which to invest in, and refactoring code to run quicker.
----
-# Results
 
+Performing an analysis on green energy stock data to determine which to invest in, and refactoring code to run quicker.
+
+# Results
 ## Original Code
 In 2017, almost all of the green stocks had a positive return. However, one stock, TERP had a negative return percentage of -7.2%.
 
